@@ -32,5 +32,5 @@
 1. Clone repositori ini:
 
 ```bash
-git clone https://github.com/username/pro-yuan.git
+git clone https://github.com/sulaimantoe/Pro-Yuan/
 cd pro-yuan
